@@ -18,7 +18,3 @@ Yapay zekâyı ilk kullanıma çıktığı günlerden beri aktif olarak kullanı
 ## Bağlantılar
 
 - 🌐 [gokhancolakspace.com.tr](https://gokhancolakspace.com.tr)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gkhnc0lk)
-- 🎨 [Behance](https://www.behance.net/gkhanolak3)
-- 🔐 [TryHackMe](https://tryhackme.com/p/zer0Samurai)
-- ✉️ iletisim@gokhancolakspace.com.tr
