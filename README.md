@@ -9,6 +9,7 @@ Yapay zekâyı ilk kullanıma çıktığı günlerden beri aktif olarak kullanı
 
 - 📱 **Sınav Yolculuğum** — KPSS / YKS / DGS / ALES hazırlık uygulaması (Flutter), [Google Play'de yayında](https://play.google.com/store/apps/details?id=com.sinavyolculugum.app)
 - 🌊 **Focus Ocean** — çalışma süresini okyanus temizliğine çeviren odaklanma oyunu (Flutter), yakında Google Play'de
+- 🛡️ **CyberLab** — SOC mülakat hazırlığı için çevrimdışı çalışma aracı. Güvenlik sebebiyle kontrol ediliyor ve güncellemeler yapılıyor; hazır olunca herkese açılacak.
 - 🛡️ **SOC L1'e hazırlanıyorum** — TryHackMe'de ilk %2
 
 ## Teknolojiler
